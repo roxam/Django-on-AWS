@@ -1,4 +1,4 @@
-# code-challenge
+# Django on AWS
 
 #to create db
 create database `testapp` character set utf8 collate `utf8_unicode_ci`;# 1 row affected.
